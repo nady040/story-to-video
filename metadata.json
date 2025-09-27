@@ -1,0 +1,5 @@
+{
+  "name": "AI Storyboard to Video",
+  "description": "An application that takes a one-line story concept, generates a full story, creates a 5-image visual storyboard, and then produces a final video based on the storyboard.",
+  "requestFramePermissions": []
+}
